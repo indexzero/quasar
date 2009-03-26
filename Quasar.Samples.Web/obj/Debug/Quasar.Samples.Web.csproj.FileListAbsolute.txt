@@ -1,0 +1,14 @@
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\bin\Quasar.Samples.Web.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\bin\Quasar.Samples.Web.pdb
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\bin\System.Web.Silverlight.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\obj\Debug\Quasar.Samples.Web.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples.Web\obj\Debug\Quasar.Samples.Web.pdb

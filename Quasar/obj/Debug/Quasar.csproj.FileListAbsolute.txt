@@ -1,0 +1,7 @@
+C:\Users\Charlie\Desktop\Quasar\Quasar\Bin\Debug\Quasar.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar\Bin\Debug\Quasar.pdb
+C:\Users\Charlie\Desktop\Quasar\Quasar\Bin\Debug\Microsoft.Windows.Controls.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charlie\Desktop\Quasar\Quasar\obj\Debug\Quasar.g.resources
+C:\Users\Charlie\Desktop\Quasar\Quasar\obj\Debug\Quasar.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar\obj\Debug\Quasar.pdb

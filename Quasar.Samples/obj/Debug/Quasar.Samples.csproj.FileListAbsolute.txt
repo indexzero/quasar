@@ -1,0 +1,17 @@
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\Bin\Debug\AppManifest.xaml
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\Bin\Debug\Quasar.Samples.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\Bin\Debug\Quasar.Samples.pdb
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\Bin\Debug\Quasar.Samples.xap
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\Bin\Debug\TestPage.html
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\Bin\Debug\Microsoft.Windows.Controls.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\Bin\Debug\Quasar.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\Bin\Debug\Quasar.pdb
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\obj\Debug\App.g.cs
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\obj\Debug\DragDropControls.g.cs
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\obj\Debug\LightBoxSample.g.cs
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\obj\Debug\MainPage.g.cs
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\obj\Debug\Quasar.Samples.g.resources
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\obj\Debug\Quasar.Samples.dll
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\obj\Debug\Quasar.Samples.pdb
+C:\Users\Charlie\Desktop\Quasar\Quasar.Samples\obj\Debug\XapCacheFile.xml
