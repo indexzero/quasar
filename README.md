@@ -1,4 +1,4 @@
-### Quasar
+## Quasar
 ---
 
 #### Author: Charlie Robbins, 2008
@@ -34,5 +34,6 @@ Last Update: January 19th, 2008
         * Currently has no "Adorner" like layer built into it, so to get the faded background effect, you must have it stretch to the entire area. 
 
 ### Credits
-   * ItemContainerManager: Josh Wagoner (http://blog.dobaginski.com/josh/?p=52)
-   * AttachedEventHandlerManager: Ary Borenszweig (http://weblogs.manas.com.ar/ary/2008/06/24/adding-double-click-support-in-silverlight/)
+
+   * ItemContainerManager: [Josh Wagoner](http://blog.dobaginski.com/josh/?p=52)
+   * AttachedEventHandlerManager: [Ary Borenszweig](http://weblogs.manas.com.ar/ary/2008/06/24/adding-double-click-support-in-silverlight/)
